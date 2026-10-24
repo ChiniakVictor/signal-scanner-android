@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- radio waves -->
+    <path android:strokeColor="#FF4DD0E1" android:strokeWidth="5" android:strokeLineCap="round" android:fillColor="#00000000"
+        android:pathData="M34,48 A28,28 0 0,1 74,48"/>
+    <path android:strokeColor="#FF4DD0E1" android:strokeWidth="5" android:strokeLineCap="round" android:fillColor="#00000000"
+        android:pathData="M41,55 A18,18 0 0,1 67,55"/>
+    <path android:fillColor="#FF4DD0E1" android:pathData="M54,58 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0"/>
+    <!-- signal bars -->
+    <path android:fillColor="#FFFFA94D" android:pathData="M36,80 h6 v-8 h-6 Z"/>
+    <path android:fillColor="#FFFFA94D" android:pathData="M46,80 h6 v-12 h-6 Z"/>
+    <path android:fillColor="#FFFFA94D" android:pathData="M56,80 h6 v-16 h-6 Z"/>
+    <path android:fillColor="#FFE6EDF3" android:pathData="M66,80 h6 v-20 h-6 Z"/>
+</vector>
